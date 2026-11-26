@@ -1,4 +1,4 @@
-AI-driven platform for 3D structural and vascular retinal characterization: Study of multimodal biomarkers in early glaucoma detection
+# AI-driven platform for 3D structural and vascular retinal characterization: Study of multimodal biomarkers in early glaucoma detection
 
 ## Overview
 **RETINAtlas-AI** is a biomedical research and technological development project designed to integrate three-dimensional multimodal data from Optical Coherence Tomography (**OCT**) and OCT Angiography (**OCTA**) scans. The project aims to advance retinal characterization and provide clinicians with automated, objective, and reproducible tools to improve the early detection of glaucoma and support personalized ophthalmic care.
